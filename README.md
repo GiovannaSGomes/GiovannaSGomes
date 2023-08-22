@@ -1,12 +1,7 @@
 # Hi there 👋
-### My name is Giovanna and I am a Computer Engineer student from Brazil, I love learning and try new things and I also love technology.I’m a Software QA Inter on Venturus 
-## More about me:
-#### 🔭 I’m currently working:
-   -collaborating on  https://github.com/GiovannaSGomes/GCTW-Team and  https://github.com/caioafc/Lotus-Notes </br>
-   -Personal web development projects 
-    
-#### - 🌱 I’m currently learning about Flutter, ReactJs, cypress
-#### - 🤔 I’m looking for help with Java( College things)
+### My name is Giovanna and I am a Computer Engineer student from Brazil, I love learning and try new things and I also love technology.I’m a Software QA on Venturus 
+#### - 🌱 I’m currently learning about ReactJs, cypress
+#### - 🤔 I’m looking for help with Web developing
 ## 📫 How to reach me:<br />
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/BVPxndgR)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/giovannasgomes/)  &nbsp; 
